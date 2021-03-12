@@ -98,7 +98,7 @@ function user_info() {
     "sharePin":"",
     "shareType":1,
     "channelLV":"",
-    "source":0,
+    "source":2,
     "riskDeviceParam":{"eid":"","dt":"","ma":"","im":"","os":"","osv":"","ip":"","apid":"","ia":"","uu":"","cv":"","nt":"","at":"1","fp":"","token":""}
   }
   params.riskDeviceParam = JSON.stringify(params.riskDeviceParam);
